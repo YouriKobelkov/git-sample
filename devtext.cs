@@ -1,3 +1,4 @@
-class CarrierValidator
+class CarrierValidator: AbstractValidator<Carrier>
 {
+
 }
